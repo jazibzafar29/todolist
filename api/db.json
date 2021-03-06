@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Wash Hands",
+      "userid": "1",
+      "description": "Wash your hands before and after every meal"
+    },
+    {
+      "id": 2,
+      "title": "Brush Teeth",
+      "userid": "1",
+      "description": "Brush teeth in the morning and night"
+    },
+    {
+      "id": 3,
+      "title": "Watch Tv",
+      "userid": "1",
+      "description": "Watch sports"
+    }
+  ]
+}
